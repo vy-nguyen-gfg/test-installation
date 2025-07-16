@@ -1,3 +1,3 @@
 <?php
-echo "Hello, PHP in Cursor!";
+echo "Hello, I'm Truc Vy from GFG!";
 ?>
